@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #define MAX 100
-
+// them ghi chu 
 void nhapMang(int a[], int *n)
 {
     int i;
